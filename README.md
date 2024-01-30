@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Frontend code for Employee CRUD app using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
