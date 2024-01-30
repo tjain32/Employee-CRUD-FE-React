@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Backend source code - https://github.com/tjain32/GoLang_BE_CRUD
+Backend source code - https://github.com/tjain32/Employee-CRUD-BE-Go
+
+# Sample Design 
+
+![SampleUI](https://github.com/tjain32/Employee-CRUD-FE-React/blob/main/public/UI-Sample.png?raw=true)
 
 ## Available Scripts
 
